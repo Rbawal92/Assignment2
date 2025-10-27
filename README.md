@@ -1,11 +1,11 @@
 # Basic Input Assignment 2 — C++ 
 
 **Author:** Raymond Bawal III
-**Professor John Koss
+**Professor** John Koss
 **Course:** ITCS 2530 C++  
 **Date:** October 24, 2025
 
-A beginner-level C++ console program that collects a few inputs about the user’s favorite video game and prints a nicely formatted summary. Than sumarizes and sends to  `report.txt`. The app adds small UX touches (console colors, pause/clear) using `windows.h`.
+A beginner C++ console program that collects a few inputs about the user’s favorite video game and prints a formatted summary. Than sumarizes and sends to  `report.txt`. The app adds small UX touches (console colors, pause/clear) using `windows.h`.
 
 ---
 
